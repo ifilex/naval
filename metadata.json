@@ -1,0 +1,6 @@
+{
+  "name": "Naval Warfare: Batalla Naval Tactical Fleet",
+  "description": "Premium 16-bit pixel-art indie naval combat game inspired by Nintendo Switch tactics titles. Features animated pixel warships, water ripples, ballistic missile arcs, explosions, fullscreen support, and mobile touch optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
